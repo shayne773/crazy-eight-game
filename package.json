@@ -1,0 +1,25 @@
+{
+  "name": "homework01-shayne773",
+  "version": "1.0.0",
+  "description": "username: shayne773  \r project: Homework #01 - Crazy Eights",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.0.3",
+    "eslint": "^8.56.0",
+    "eslint-plugin-mocha": "^10.2.0",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
